@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohamad Azafri</h1>
-<h3 align="center">a software developer currently working remotely for Nexagate. My primary focus is on the Django framework, where I enjoy crafting web solutions and delving into all things Python. In addition to my work at Nexagate, I also freelance as a full-stack developer, bringing ideas to life through code. I'm passionate about remote work and the opportunities it offers in our ever-evolving digital landscape. Let's connect and collaborate on exciting projects!</h3>
 
-- 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **azafri9@gmail.com**
+-  **azafri9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
